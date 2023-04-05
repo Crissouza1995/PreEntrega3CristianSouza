@@ -1,0 +1,12 @@
+{
+  "name": "simpleplast-prueba",
+  "version": "1.0.0",
+  "description": "Alumno: Cristian Souza\r Comision:39275",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
