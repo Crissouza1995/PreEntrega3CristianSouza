@@ -142,16 +142,6 @@ svg {
     display: none;
   }
 }
-#mi-imagen {
-  position: relative;
-  top: 50%;
-  right: 0;
-  transform: translateX(100%);
-  animation-name: desplazar-centro;
-  animation-duration: 2s;
-  animation-fill-mode: forwards;
-}
-
 @keyframes desplazar-centro {
   from {
     transform: translateX(100%);

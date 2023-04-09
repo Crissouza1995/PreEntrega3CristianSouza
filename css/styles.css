@@ -144,7 +144,7 @@ svg {
     display: none;
   }
 }
-#mi-imagen {
+/*#mi-imagen {
   position: relative;
   top: 50%;
   right: 0;
@@ -152,7 +152,7 @@ svg {
   animation-name: desplazar-centro;
   animation-duration: 2s;
   animation-fill-mode: forwards;
-}
+}*/
 
 @keyframes desplazar-centro {
   from {
